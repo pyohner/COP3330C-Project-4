@@ -2,7 +2,8 @@ Name: Phillip Yohner
 Course: CEN 3024C  
 CRN: 31950  
 
-# COP3330C-Project-4
+# COP3330C-Project-4  
+Threads and Concurrency
 
 Phillip Yohner
 COP 3330C - CRN 24680
